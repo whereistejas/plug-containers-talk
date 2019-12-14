@@ -1,3 +1,5 @@
+# Pune Linux Users Group
+
 ## containers
 
 ### test distros
@@ -72,9 +74,9 @@
 
 3. dockerfile example
 	1. webpage which displays three images
-	2. one image - ephemeral
-	2. second image - volume
-	2. third image - mount
+		2. one image - ephemeral
+		2. second image - volume
+		2. third image - mount
 	3. expose container port to host
 
 	4. each operation as layer
